@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-![](https://komarev.com/ghpvc/?username=shreyxnsh&color=dc143c)
+![](https://komarev.com/ghpvc/?username=yaviral17&color=dc143c)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyxnsh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shreyxnshhhh) 
 
 # 💻 Tech Stack:
